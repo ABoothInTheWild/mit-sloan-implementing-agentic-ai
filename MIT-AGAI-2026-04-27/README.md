@@ -36,6 +36,3 @@ transcripts in its `Downloads/` folder.
 ## Notes
 
 * This cohort is complete end to end: all four modules and the live session are wrapped up.
-* The lesson and media content in this cohort is the same as the
-  [July 20, 2026 cohort](../MIT-AGAI-2026-07-20/), an earlier run of the same program, so the module
-  READMEs describe the same underlying material.
