@@ -44,6 +44,8 @@ MIT-AGAI-<START_DATE>/
   May 6, 2026 ("Agentic AI: Eight Insights for Business Leaders").
 * **[MIT-AGAI-2026-07-20](./MIT-AGAI-2026-07-20/)**: cohort starting July 20, 2026. Live session not
   yet held.
+* **[MIT-AGAI-2026-08-31](./MIT-AGAI-2026-08-31/)**: cohort starting August 31, 2026. Orientation
+  module in place; Modules 1-3 open as the cohort progresses. Live session not yet held.
 
 ## File types
 
