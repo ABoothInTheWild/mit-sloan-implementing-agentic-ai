@@ -13,10 +13,13 @@ plus recap README) once that session happens.
 
 * **[Module 0: Orientation](./Module_00/README.md)**: program introduction, the reactive-to-agentic
   reframing, the explore/implement/scale arc, and the Honor Code and Program Policies.
+* **[Module 1: Understanding Agentic AI](./Module_01/README.md)**: the AI continuum and the shift from
+  reactive to proactive systems, what turns an LLM into an agent, the five building blocks of agent
+  design, where agentic value and risk actually sit, and the agentic workflow as the unit of deployment.
 
-Modules 1-3 (Understanding Agentic AI, Designing and Deploying Agentic Systems, Scaling Agentic AI
-Responsibly) are added as they open for this cohort. Each module README summarizes that module's
-lesson, media-set, and podcast content, drawn from the transcripts in its `Downloads/` folder.
+Modules 2-3 (Designing and Deploying Agentic Systems, Scaling Agentic AI Responsibly) are added as they
+open for this cohort. Each module README summarizes that module's lesson, media-set, and podcast
+content, drawn from the transcripts in its `Downloads/` folder.
 
 ## File organization
 
@@ -26,4 +29,4 @@ lesson, media-set, and podcast content, drawn from the transcripts in its `Downl
 
 ## Notes
 
-* Module 0 (Orientation) is complete. Modules 1-3 are added as they open.
+* Modules 0 (Orientation) and 1 are complete. Modules 2-3 are added as they open.
