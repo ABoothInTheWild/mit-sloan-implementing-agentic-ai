@@ -16,10 +16,13 @@ plus recap README) once that session happens.
 * **[Module 1: Understanding Agentic AI](./Module_01/README.md)**: the AI continuum and the shift from
   reactive to proactive systems, what turns an LLM into an agent, the five building blocks of agent
   design, where agentic value and risk actually sit, and the agentic workflow as the unit of deployment.
+* **[Module 2: Designing and Deploying Agentic Systems](./Module_02/README.md)**: memory and learning,
+  failure modes and external safeguards, multi-agent and multimodal systems, build-vs-buy-vs-stack,
+  human-in-the-loop thresholds, AgentOps, and task decomposition.
 
-Modules 2-3 (Designing and Deploying Agentic Systems, Scaling Agentic AI Responsibly) are added as they
-open for this cohort. Each module README summarizes that module's lesson, media-set, and podcast
-content, drawn from the transcripts in its `Downloads/` folder.
+Module 3 (Scaling Agentic AI Responsibly) is added as it opens for this cohort. Each module README
+summarizes that module's lesson, media-set, and podcast content, drawn from the transcripts in its
+`Downloads/` folder.
 
 ## File organization
 
@@ -29,4 +32,4 @@ content, drawn from the transcripts in its `Downloads/` folder.
 
 ## Notes
 
-* Modules 0 (Orientation) and 1 are complete. Modules 2-3 are added as they open.
+* Modules 0 (Orientation), 1, and 2 are complete. Module 3 is added as it opens.
