@@ -19,10 +19,13 @@ plus recap README) once that session happens.
 * **[Module 2: Designing and Deploying Agentic Systems](./Module_02/README.md)**: memory and learning,
   failure modes and external safeguards, multi-agent and multimodal systems, build-vs-buy-vs-stack,
   human-in-the-loop thresholds, AgentOps, and task decomposition.
+* **[Module 3: Scaling Agentic AI Responsibly](./Module_03/README.md)**: the autonomy spectrum and
+  four-layer safeguard architecture, the "comparison that matters," the shift from code to intent,
+  organizational readiness, multi-agent orchestration research, and agency law, disclosure, bias, and
+  workforce accountability.
 
-Module 3 (Scaling Agentic AI Responsibly) is added as it opens for this cohort. Each module README
-summarizes that module's lesson, media-set, and podcast content, drawn from the transcripts in its
-`Downloads/` folder.
+Each module README summarizes that module's lesson, media-set, and podcast content, drawn from the
+transcripts in its `Downloads/` folder.
 
 ## File organization
 
@@ -32,4 +35,4 @@ summarizes that module's lesson, media-set, and podcast content, drawn from the 
 
 ## Notes
 
-* Modules 0 (Orientation), 1, and 2 are complete. Module 3 is added as it opens.
+* This cohort's module content (Modules 0-3) is complete; only the live session remains outstanding.
