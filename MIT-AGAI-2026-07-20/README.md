@@ -6,8 +6,9 @@ Education.
 
 ## Live session status
 
-**Not yet held.** The live session is scheduled for about a week out. The `Live_Session/` folder is
-currently a placeholder and will be filled in (slides plus recap README) once that session happens.
+**Scheduled for November 24, 2026**, run jointly with the August 31, 2026 cohort. The `Live_Session/`
+folder is currently a placeholder and will be filled in (slides plus recap README) once that session
+happens.
 
 ## Module map
 
