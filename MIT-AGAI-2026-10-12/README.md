@@ -18,9 +18,16 @@ that session happens.
   reactive to proactive systems, what turns an LLM into an agent, the five building blocks of agent
   design, where agentic value and risk actually sit, and the agentic workflow as the unit of deployment.
 
-Modules 2-3 (Designing and Deploying Agentic Systems, Scaling Agentic AI Responsibly) are added as they
-open for this cohort. Each module README summarizes that module's
-lesson, media-set, and podcast content, drawn from the transcripts in its `Downloads/` folder.
+* **[Module 2: Designing and Deploying Agentic Systems](./Module_02/README.md)**: memory and learning,
+  failure modes and external safeguards, multi-agent and multimodal systems, build-vs-buy-vs-stack,
+  human-in-the-loop thresholds, AgentOps, and task decomposition.
+* **[Module 3: Scaling Agentic AI Responsibly](./Module_03/README.md)**: the autonomy spectrum and
+  four-layer safeguard architecture, the "comparison that matters," the shift from code to intent,
+  organizational readiness, multi-agent orchestration research, and agency law, disclosure, bias, and
+  workforce accountability.
+
+Each module README summarizes that module's lesson, media-set, and podcast content, drawn from the
+transcripts in its `Downloads/` folder.
 
 ## File organization
 
@@ -30,4 +37,4 @@ lesson, media-set, and podcast content, drawn from the transcripts in its `Downl
 
 ## Notes
 
-* Modules 0 (Orientation) and 1 are complete. Modules 2-3 are added as they open.
+* This cohort's module content (Modules 0-3) is complete; only the live session remains outstanding.
