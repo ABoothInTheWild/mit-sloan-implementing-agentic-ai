@@ -58,6 +58,7 @@ layer.
   ([PDF](Downloads/NIST%20AI%20Risk%20Management%20Framework%20(AI%20RMF%201.0).pdf))
 * [NIST AI 600-1, Generative AI Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf): applies
   the AI RMF specifically to generative AI risks.
+  ([PDF](Downloads/NIST%20AI%20600-1%20Generative%20AI%20Profile.pdf))
 * [ISO/IEC 42001](https://www.iso.org/standard/42001): the international standard for AI management
   systems, useful if your organization already works with ISO standards.
 
