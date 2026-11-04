@@ -210,6 +210,9 @@ the board recommendation that lets an organization move fast without moving reck
   identifying four resulting strategic tensions (scalability vs. adaptability, experience vs. expediency,
   supervision vs. autonomy, retrofit vs. reengineer) and the five organizational systems (work design,
   governance, workforce planning, learning, and investment) leaders must redesign to resolve them.
+* **[Playbook 3.4: Layer Lines of Defense at Portfolio Scale](Lines_of_Defense.md)**: a guide to the
+  foundation, operational, and transparency layers in Playbook section 3.4, with further reading for
+  each.
 
 ## Key Takeaways
 
