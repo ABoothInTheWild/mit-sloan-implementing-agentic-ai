@@ -55,6 +55,7 @@ layer.
 **Foundation layer**
 * [NIST AI Risk Management Framework (AI RMF 1.0)](https://www.nist.gov/itl/ai-risk-management-framework):
   the most widely used reference for what an AI governance program covers.
+  ([PDF](Downloads/NIST%20AI%20Risk%20Management%20Framework%20(AI%20RMF%201.0).pdf))
 * [NIST AI 600-1, Generative AI Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf): applies
   the AI RMF specifically to generative AI risks.
 * [ISO/IEC 42001](https://www.iso.org/standard/42001): the international standard for AI management
@@ -63,12 +64,14 @@ layer.
 **Operational layer**
 * [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/): the most common security
   risks for LLM-based systems and how to mitigate them.
+  ([PDF, 2025 edition](Downloads/OWASP%20Top%2010%20for%20LLM%20Applications%202025.pdf))
 * [OWASP Agentic AI: Threats and Mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/):
   the same idea, extended to agents that use tools and take actions.
 
 **Transparency layer**
 * [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993) (Mitchell et al.): the original
   proposal for standardized model documentation.
+  ([PDF](Downloads/Model%20Cards%20for%20Model%20Reporting.pdf))
 * [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) (Gebru et al.): the companion idea for
   documenting training data.
 * [CycloneDX ML-BOM](https://cyclonedx.org/capabilities/mlbom/): an existing standard format for an AI/ML
