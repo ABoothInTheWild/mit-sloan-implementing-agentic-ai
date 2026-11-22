@@ -49,7 +49,7 @@ def build(slug: str, links: dict) -> Path:
 <meta property="og:type" content="article"><meta property="og:title" content="{t}"><meta property="og:description" content="{d}">
 <style>{STYLE}</style>
 </head><body><article>
-<header><h1>{t}</h1><p><em>{d}</em></p><p>By <a href="{PROFILE}" rel="author">{AUTHOR}</a></p></header>
+<header><h1>{t}</h1><p><em>{d}</em></p></header>
 <hr>
 {body}
 </article></body></html>
