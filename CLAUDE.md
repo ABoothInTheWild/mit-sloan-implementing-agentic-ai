@@ -5,7 +5,7 @@ This file provides guidance to Claude Code when working with code in this reposi
 ## What this repository is
 
 This is a **curriculum / course-content repository**, not a software project. It holds the teaching
-materials Alexander Booth (the Head Program Instructor) uses to run cohorts of **Implementing Agentic
+materials Alexander Booth (an Associate Instructor) uses to run cohorts of **Implementing Agentic
 AI: Building Your Organizational Playbook**, an MIT Sloan Executive Education / MIT Schwarzman College
 of Computing program delivered with GetSmarter. There is no build, lint, test, or CI. "Doing work" here
 means one of:
