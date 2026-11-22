@@ -1,6 +1,6 @@
 # Every Agent Needs a Manager: What Executives Learn Designing Their First Agent
 
-*Week two of MIT Sloan's Implementing Agentic AI program moves from "what is an agent?" to "OK, what do we actually build?" The architecture turns out to be the easy part. (Part 2 of 3.)*
+*Week two of an executive education program on agentic AI moves from "what is an agent?" to "OK, what do we actually build?" The architecture turns out to be the easy part. (Part 2 of 3.)*
 
 In [part 1](PART1_URL), a room full of executives discovered that they all meant something different by "agent." Week two is where they have to stop debating the word and put something on a whiteboard.
 
@@ -10,7 +10,7 @@ I love that choice. Most organizations pick their first agent project the way yo
 
 ## 1. An agent is five decisions, not one product
 
-MIT's Jacob Andreas gives the cleanest vocabulary for this. Every agent design, regardless of vendor, industry, or how fancy the demo was, comes down to five commitments:
+The program gives a clean vocabulary for this. Every agent design, regardless of vendor, industry, or how fancy the demo was, comes down to five commitments:
 
 ![Five decisions every agent design makes](five_decisions.png)
 *Perception, action, planning, memory, and safety. Same five questions whether you build, buy, or stack.*
@@ -23,7 +23,7 @@ Memory in particular deserves more attention than it gets. Without it, an agent 
 
 This is the part of week two that changes how people think about safety.
 
-Agents fail in two directions. First, they just make mistakes: they hallucinate, follow flawed logic, or take a consequential action without checking. Andreas's example is a return that gets processed without the customer ever confirming it. Second, *users* misbehave: someone sweet-talks the customer service agent into a discount it was never supposed to give.
+Agents fail in two directions. First, they just make mistakes: they hallucinate, follow flawed logic, or take a consequential action without checking. The program's example is a return that gets processed without the customer ever confirming it. Second, *users* misbehave: someone sweet-talks the customer service agent into a discount it was never supposed to give.
 
 The instinct is to fix both with better instructions. "Never issue a refund without confirmation." "Don't give discounts." The program's answer is blunt: **safeguards have to live outside the model**. Hard-coded confirmation steps that never pass through the language model. Monitoring that flags high-risk behavior. Privacy rules that only expose what a user has already proven they're entitled to. Code you can test like normal software.
 
@@ -33,7 +33,7 @@ A prompt is a suggestion. A model can reason its way past a suggestion. It can't
 
 "Keep a human in the loop" is everyone's favorite reassuring sentence. It's also not a design. Which loop? For which decisions? At what dollar amount?
 
-Google's Kanchana Patlolla makes the practical version of this point: right now, full autonomy and regulated industries don't coexist. So you set thresholds. Ignore small-dollar fraud, escalate everything else. Let the agent draft, have a human approve. Boulton ends up with exactly this: a map, not a toggle.
+One industry practitioner in the program makes the practical version of this point: right now, full autonomy and regulated industries don't coexist. So you set thresholds. Ignore small-dollar fraud, escalate everything else. Let the agent draft, have a human approve. Boulton ends up with exactly this: a map, not a toggle.
 
 ![Human-in-the-loop is a threshold map, not a switch](threshold_map.png)
 *The question isn't "human in the loop: yes or no?" It's "how much does the agent do on its own, for this kind of decision?"*
@@ -42,7 +42,7 @@ The companion discipline is what practitioners are starting to call **AgentOps**
 
 ## 4. Decomposition is the core design skill
 
-AnyQuest founder Dmitri Tcherevik has the most useful heuristic of the week. You should break a task into multiple agentic steps when:
+A startup founder in the program has the most useful heuristic of the week. You should break a task into multiple agentic steps when:
 
 1. **You're repeating the same prompt sequence.** If a human keeps doing step A, then B, then C by hand, that's a workflow asking to be encoded.
 2. **The output stays flat no matter how good your prompting gets.** That's a sign the task is too complex for one step.
@@ -54,7 +54,7 @@ And you engineer consistency out of an inherently inconsistent medium the same w
 
 This is the one I'd underline twice. Most organizations get the infrastructure basically right: data access, secure APIs, scalable hosting. What kills agentic initiatives between prototype and production is change management.
 
-If the people who will use the agent didn't help come up with it, or see it as a threat, they resist it. They reject its output regardless of how good it is. Tcherevik's observation about who actually builds successful agents is worth sitting with: it's usually not the engineers. It's **AI-enthusiastic subject-matter experts**, the people who know the process cold and are excited to encode it.
+If the people who will use the agent didn't help come up with it, or see it as a threat, they resist it. They reject its output regardless of how good it is. His observation about who actually builds successful agents is worth sitting with: it's usually not the engineers. It's **AI-enthusiastic subject-matter experts**, the people who know the process cold and are excited to encode it.
 
 The playbook that falls out of this is refreshingly practical:
 
@@ -81,4 +81,4 @@ Next up, in part 3: what happens when the pilot works, and the much harder quest
 
 ---
 
-*This is part 2 of a 3-part series on [Implementing Agentic AI: Building Your Organizational Playbook](https://executive.mit.edu/), an MIT Sloan Executive Education and MIT Schwarzman College of Computing program delivered with GetSmarter, where I'm the Head Program Instructor. The frameworks belong to the program's faculty and guests, including Jacob Andreas, Kanchana Patlolla, Dmitri Tcherevik, and Paul McDonagh-Smith. Boulton Industries is the program's fictional teaching case. Any oversimplifications are mine.*
+*This is part 2 of a 3-part series on an executive education program on implementing agentic AI, where I'm an associate instructor. The frameworks belong to the program's faculty and guest speakers. Boulton Industries is the program's fictional teaching case. Any oversimplifications are mine.*

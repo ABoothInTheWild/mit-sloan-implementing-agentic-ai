@@ -1,12 +1,12 @@
 # The Seduction of the Demo: How to Scale Agentic AI Without Losing Control
 
-*The last week of MIT Sloan's Implementing Agentic AI program starts where most AI projects quietly go wrong: the pilot worked. Now what? (Part 3 of 3.)*
+*The last week of an executive education program on agentic AI starts where most AI projects quietly go wrong: the pilot worked. Now what? (Part 3 of 3.)*
 
 Here's the uncomfortable truth about agentic AI in 2026: building an impressive demo has never been easier. A couple of smart people and a frontier model can produce something that wows a steering committee in a few days.
 
 That's the problem.
 
-Faculty director Paul McDonagh-Smith calls it the **seduction of the demo**, and it's the opening idea of the program's final week. A demo runs in a sandbox, where a small team understands every decision the agent makes. Production is a different universe: the agent acts across functions, data sources, and situations nobody explicitly tested, touching people who never volunteered for the pilot. MIT's Tim Kraska has a name for the industry version of this: "intern demos." Impressive, encouraging, and nowhere near ready to be left alone with the company credit card.
+The program calls it the **seduction of the demo**, and it's the opening idea of the program's final week. A demo runs in a sandbox, where a small team understands every decision the agent makes. Production is a different universe: the agent acts across functions, data sources, and situations nobody explicitly tested, touching people who never volunteered for the pilot. One of the program's guest researchers has a name for the industry version of this: "intern demos." Impressive, encouraging, and nowhere near ready to be left alone with the company credit card.
 
 In [part 1](PART1_URL), the executives agreed on what an agent is. In [part 2](PART2_URL), they designed one. Week three is about scaling it, and the main lesson is that **scaling isn't a bigger pilot. It's a transition** to an environment with new failure modes. Here's what that week covers.
 
@@ -45,15 +45,15 @@ That reframing changes the ROI conversation completely. You stop defending the a
 
 ## 4. More agents, better orchestration, harder evaluation
 
-Kraska brings the research view. On his team's KramaBench evaluation of real-world data-science tasks, single-agent approaches reached only about 22% end-to-end accuracy. Multi-agent architectures with iterative planning got to roughly 50%. That's not a tuning gain. It's a different success rate, and it comes mostly from orchestration: trying alternatives in parallel and keeping the best one, rather than from any single smarter agent.
+The research view is sobering. On one recent benchmark of real-world data-science tasks, single-agent approaches reached only about 22% end-to-end accuracy. Multi-agent architectures with iterative planning got to roughly 50%. That's not a tuning gain. It's a different success rate, and it comes mostly from orchestration: trying alternatives in parallel and keeping the best one, rather than from any single smarter agent.
 
-But here's the catch he flags, and it's a good one: building the multi-agent system is easier than defining what "success" means for it. Teams evaluated against a fixed benchmark will optimize for the benchmark. If you measure the wrong thing carefully, you'll get very good at the wrong thing.
+But here's the catch, and it's a good one: building the multi-agent system is easier than defining what "success" means for it. Teams evaluated against a fixed benchmark will optimize for the benchmark. If you measure the wrong thing carefully, you'll get very good at the wrong thing.
 
-His practical advice for organizations is the one I repeat most: **start small, but try a lot.** A portfolio of focused, fast-learning experiments beats one heroic "agent that does everything" initiative, almost every time.
+The practical advice for organizations is the one I repeat most: **start small, but try a lot.** A portfolio of focused, fast-learning experiments beats one heroic "agent that does everything" initiative, almost every time.
 
 ## 5. Accountability is decided at design time
 
-Harvard Law's Glenn Cohen adds the part executives tend to underweight until a lawyer is in the room. Agency law, the centuries-old body of law about human principals and the agents acting for them, turns out to be very relevant here. Courts are likely to care less about whether a specific agent action was "correct," and more about **how much leeway you gave it, how carefully you watched it before deployment, and what monitoring you built in**.
+A legal scholar in the program adds the part executives tend to underweight until a lawyer is in the room. Agency law, the centuries-old body of law about human principals and the agents acting for them, turns out to be very relevant here. Courts are likely to care less about whether a specific agent action was "correct," and more about **how much leeway you gave it, how carefully you watched it before deployment, and what monitoring you built in**.
 
 A few more principles fall out of that:
 
@@ -81,4 +81,4 @@ The demo is what gets everyone excited. The scaffolding is what lets you keep th
 
 ---
 
-*This is part 3 of a 3-part series on [Implementing Agentic AI: Building Your Organizational Playbook](https://executive.mit.edu/), an MIT Sloan Executive Education and MIT Schwarzman College of Computing program delivered with GetSmarter, where I'm the Head Program Instructor. The frameworks belong to the program's faculty and guests, including Paul McDonagh-Smith, Tim Kraska, and Glenn Cohen. Boulton Industries is the program's fictional teaching case, and its pilot figures are part of that case. Any oversimplifications are mine.*
+*This is part 3 of a 3-part series on an executive education program on implementing agentic AI, where I'm an associate instructor. The frameworks belong to the program's faculty and guest speakers. Boulton Industries is the program's fictional teaching case, and its pilot figures are part of that case. Any oversimplifications are mine.*
