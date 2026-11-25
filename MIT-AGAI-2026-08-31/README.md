@@ -6,7 +6,7 @@ Education.
 
 ## Live session status
 
-**Scheduled for November 24, 2026**, run jointly with the July 20, 2026, October 12, 2026, and November 16, 2026 cohorts. The
+**Scheduled for December 1, 2026**, run jointly with the July 20, 2026, October 12, 2026, and November 16, 2026 cohorts. The
 `Live_Session/` folder is currently a placeholder and will be filled in (slides plus recap README) once
 that session happens.
 
