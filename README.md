@@ -49,7 +49,7 @@ MIT-AGAI-<START_DATE>/
 * **[MIT-AGAI-2026-10-12](./MIT-AGAI-2026-10-12/)**: cohort starting October 12, 2026. Live session
   scheduled for December 1, 2026 (joint with the July 20, August 31, and November 16 cohorts).
 * **[MIT-AGAI-2026-11-16](./MIT-AGAI-2026-11-16/)**: cohort starting November 16, 2026. Orientation
-  and Module 1 in place; Modules 2-3 added as they open. Live session scheduled for December 1, 2026
+  and Modules 1-2 in place; Module 3 added when it opens. Live session scheduled for December 1, 2026
   (joint with the July 20, August 31, and October 12 cohorts).
 
 ## File types
